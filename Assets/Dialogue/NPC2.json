@@ -1,0 +1,1 @@
+﻿{"inkVersion":21,"root":[["^Hello, It's a nice day, right?","\n",{"->":"main"},["done",{"#f":5,"#n":"g-0"}],null],"done",{"main":["^I like gambling","\n","^I'm hoping that I will not lose any money","\n","end",{"#f":1}],"#f":1}],"listDefs":{}}
