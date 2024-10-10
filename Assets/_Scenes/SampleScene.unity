@@ -874,7 +874,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   visualCue: {fileID: 1936839203}
-  InkJason: {fileID: 4900000, guid: d8da28b314c0d45ad932e144ce8c1274, type: 3}
+  InkJason: {fileID: 4900000, guid: 45b61965d7a494870a9c4fd7c905e7c2, type: 3}
 --- !u!61 &287045782
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1100,7 +1100,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   visualCue: {fileID: 914278106}
-  InkJason: {fileID: 4900000, guid: 00402741184c14c439958b9e71ffc8ca, type: 3}
+  InkJason: {fileID: 4900000, guid: eeeef2e36216a451c898b92e076d7f81, type: 3}
 --- !u!61 &350535871
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3725,7 +3725,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   visualCue: {fileID: 1064489028}
-  InkJason: {fileID: 4900000, guid: 01fc8fb0820ff45b292bc2f705a0e5a9, type: 3}
+  InkJason: {fileID: 4900000, guid: e043c35bdbadb4d00b618a72a1656dd5, type: 3}
 --- !u!61 &1483477859
 BoxCollider2D:
   m_ObjectHideFlags: 0
