@@ -2,7 +2,31 @@ Hello, It's a nice day, right?
 ->main
 
 === main ===
-I like gambling
-I'm hoping that I will not lose any money
+I am the God of Gambling, 
+and you have been chosen as one of my apostles 
+for losing too much money
 
-->END
+->Choose
+
+=== Choose ===
+Ready for Win a money?
+    + [Yea!]
+        Nice,
+        -> choose("Gambling")
+    + [Maybe]
+            Sorry you have no choice,
+        -> choose("Gambling")
+    + [No]
+            Sorry you have no choice,
+        -> choose("Gambling")
+        
+    
+        
+        
+        
+
+=== choose(rest) ====
+Have a nice at {rest}!
+-> END
+
+
